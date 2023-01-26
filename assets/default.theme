@@ -1,0 +1,33 @@
+{
+    "name": "Classic",
+    "colors": {
+        "background": [100, 160, 160],
+        "text": [0, 50, 0],
+        "selection": [200, 200, 200],
+        "line": [0, 0, 100],
+        "figures": [
+            [200, 0, 0],
+            [0, 200, 0],
+            [0, 0, 200],
+            [200, 200, 0],
+            [0, 200, 200],
+            [200, 0, 200],
+            [200, 200, 200]
+        ]
+    },
+    "fonts": {
+        "files": {
+            "default": "ShareTechMono-Regular.ttf"
+        },
+        "defs": {
+            "normal": {
+                "source": "default",
+                "size": 20
+            },
+            "large": {
+                "source": "default",
+                "size": 65
+            }
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Random",
+    "colors": {
+        "background": [100, 160, 160],
+        "text": [0, 50, 0],
+        "selection": [200, 200, 200],
+        "line": [0, 0, 100],
+        "figures": "random"
+    },
+    "fonts": {
+        "files": {
+            "default": "ShareTechMono-Regular.ttf"
+        },
+        "defs": {
+            "normal": {
+                "source": "default",
+                "size": 20
+            },
+            "large": {
+                "source": "default",
+                "size": 65
+            }
+        }
+    }
+}
